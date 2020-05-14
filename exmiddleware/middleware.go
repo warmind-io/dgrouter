@@ -4,8 +4,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/Necroforger/dgrouter"
-	"github.com/Necroforger/dgrouter/exrouter"
+	"github.com/warmind-io/dgrouter"
+	"github.com/warmind-io/dgrouter/exrouter"
 )
 
 const (

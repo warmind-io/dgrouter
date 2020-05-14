@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/Necroforger/dgrouter"
+	"github.com/warmind-io/dgrouter"
 
-	"github.com/bwmarrin/discordgo"
+	"github.com/warmind-io/discordgo"
 )
 
 // Context represents a command context

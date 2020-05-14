@@ -21,8 +21,8 @@ import (
 
 	"sync"
 
-	"github.com/Necroforger/dgrouter/exrouter"
-	"github.com/bwmarrin/discordgo"
+	"github.com/warmind-io/dgrouter/exrouter"
+	"github.com/warmind-io/discordgo"
 )
 
 // Command line flags

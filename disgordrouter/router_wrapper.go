@@ -3,7 +3,7 @@ package disgordrouter
 import (
 	"strings"
 
-	"github.com/Necroforger/dgrouter"
+	"github.com/warmind-io/dgrouter"
 	"github.com/andersfylling/disgord"
 )
 
