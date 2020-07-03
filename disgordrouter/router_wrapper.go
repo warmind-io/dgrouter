@@ -3,8 +3,8 @@ package disgordrouter
 import (
 	"strings"
 
-	"github.com/warmind-io/dgrouter"
 	"github.com/andersfylling/disgord"
+	"github.com/warmind-io/dgrouter"
 )
 
 // HandlerFunc ...
